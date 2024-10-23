@@ -1,0 +1,3 @@
+C:/Users/Admin/Desktop/Stuff/Grupo8_proj2/Proj_2_EDA/cmake-build-debug/CMakeFiles/Proj_2_EDA.dir
+C:/Users/Admin/Desktop/Stuff/Grupo8_proj2/Proj_2_EDA/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Admin/Desktop/Stuff/Grupo8_proj2/Proj_2_EDA/cmake-build-debug/CMakeFiles/rebuild_cache.dir
