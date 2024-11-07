@@ -8,3 +8,5 @@ add_executable(Proj_2_EDA main.cpp
         inicializacao.h
         structs.h
 )
+
+//ola
